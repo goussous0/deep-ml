@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T06:25:32.753Z",
+  "generated_at": "2026-10-20T06:25:34.250Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -26,6 +26,65 @@
       "last_pushed_at": "2026-10-13T17:58:12.278Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-10-16T06:04:36.884Z",
+      "last_pushed_at": "2026-10-16T06:04:36.884Z",
+      "language": "python",
+      "lines": 21
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-10-16T06:20:43.602Z",
+      "last_pushed_at": "2026-10-16T06:20:43.602Z"
+    },
+    "math:9": {
+      "kind": "math",
+      "id": "9",
+      "title": "Matrix Basics",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/9",
+      "path": "math/0009-matrix-basics",
+      "first_solved_at": "2026-10-16T09:47:46.202Z",
+      "last_pushed_at": "2026-10-16T09:47:46.202Z"
+    },
+    "math:10": {
+      "kind": "math",
+      "id": "10",
+      "title": "Matrix Multiplication",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/10",
+      "path": "math/0010-matrix-multiplication",
+      "first_solved_at": "2026-10-16T10:04:27.032Z",
+      "last_pushed_at": "2026-10-16T10:04:27.032Z"
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-10-16T10:48:24.999Z",
+      "last_pushed_at": "2026-10-16T10:48:24.999Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
