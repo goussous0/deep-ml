@@ -13,7 +13,6 @@ def k_fold_cross_validation(n_samples: int, k: int = 5, shuffle: bool = True) ->
     Returns:
         List of (train_indices, test_indices) tuples
     """
-    # Your code here
     indices = np.arange(n_samples)
     if shuffle is True:
         np.random.shuffle(indices)
@@ -24,10 +23,11 @@ def k_fold_cross_validation(n_samples: int, k: int = 5, shuffle: bool = True) ->
     # print (r,s )
 
     tmp = []
-    for i in range(0, indices.shape[0], s):
-        test = indices[i:i+s].tolist()
+    for i in range(0, indices.shape[0]-r, s):
+        test = indices[i:i+s+r].tolist()
         train = indices[:i].tolist() + indices[i+s:].tolist() 
         tmp.append((train, test))
+        r = 0
 
 
     return tmp
