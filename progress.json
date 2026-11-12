@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T09:18:07.987Z",
+  "generated_at": "2026-11-12T09:29:07.938Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -521,6 +521,19 @@
       "path": "math/0005-gradient-descent-updates",
       "first_solved_at": "2026-11-12T09:18:07.023Z",
       "last_pushed_at": "2026-11-12T09:18:07.023Z"
+    },
+    "problem:97": {
+      "kind": "problem",
+      "id": "97",
+      "title": "Implement the ELU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/97",
+      "path": "problems/0097-implement-the-elu-activation-function",
+      "first_solved_at": "2026-11-12T09:29:06.923Z",
+      "last_pushed_at": "2026-11-12T09:29:06.923Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
