@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**45** solved · 38 problems · 0 labs · 7 math
+**46** solved · 39 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-11-08 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2026-11-09 | [solution](problems/0070-calculate-image-brightness) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-10-18 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-11-15 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-11-08 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-10-30 | [solution](problems/0016-feature-scaling-implementation) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-11-13 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
