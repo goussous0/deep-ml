@@ -12,8 +12,8 @@ def orthogonal_projection(v, L):
 
 
     numerator = v @ L
-    dinomenator = L @ L
+    denominator = L @ L
 
-    return (numerator / dinomenator) * L
+    return (numerator / denominator) * L
 
 
