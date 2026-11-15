@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T13:44:39.751Z",
+  "generated_at": "2026-11-15T07:37:08.629Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -558,6 +558,19 @@
       "path": "math/0130-why-minibatches-gradient-variance-vs-batch-size",
       "first_solved_at": "2026-11-13T13:44:39.075Z",
       "last_pushed_at": "2026-11-13T13:44:39.075Z"
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2026-11-15T07:37:08.003Z",
+      "last_pushed_at": "2026-11-15T07:37:08.003Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
