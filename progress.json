@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T07:27:18.220Z",
+  "generated_at": "2026-11-16T13:57:53.567Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -649,6 +649,19 @@
       "last_pushed_at": "2026-11-16T07:27:17.481Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:28": {
+      "kind": "problem",
+      "id": "28",
+      "title": "SVD of a 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/28",
+      "path": "problems/0028-svd-of-a-2x2-matrix",
+      "first_solved_at": "2026-11-16T13:57:52.874Z",
+      "last_pushed_at": "2026-11-16T13:57:52.874Z",
+      "language": "python",
+      "lines": 65
     }
   }
 }
